@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+reports/
+.env
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+wechat-bot/
